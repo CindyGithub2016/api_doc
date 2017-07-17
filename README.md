@@ -26,7 +26,7 @@ eg: localhost: 127.0.0.1
            * 获取奖品信息
            * @request POST open_api/get_reward_info
            * @param  int    $activity_id 活动id  required 11
-           * @return int    $activity_id 活动id
+           * @return array
            */
           public function get_reward_info() {
             ...
