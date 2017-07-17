@@ -41,6 +41,6 @@ eg: localhost: 127.0.0.1
 
 ![页面展示][1]
 
-[1]: /api_doc.png 
+[1]: ./api_doc.png 
 
 
