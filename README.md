@@ -35,6 +35,12 @@ eg: localhost: 127.0.0.1
 
 ### 提示
 1. 'open_api/get_reward_info'为需要转为文档的API的URL，均可按要求替换
-2. 页面请求URL需要带上参数?module=open_api&action=get_reward_info
+2. 页面请求URL需要带上参数?module=open_api&action=get_reward_info，表示需要转为文档对应的接口和方法
+
+### 页面展示
+
+![页面展示][1]
+
+[1]: /api_doc.png 
 
 
